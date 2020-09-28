@@ -1,2 +1,3 @@
-# Golang
-Golang project to practice the language and build API using it.
+# Go
+
+Draft to practice golang and goal to make a trade off with current languages.
