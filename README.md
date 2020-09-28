@@ -1,2 +1,2 @@
 # Golang
-Golang project to pratice a language and build API using this
+Golang project to practice the language and build API using it.
