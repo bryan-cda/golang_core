@@ -30,9 +30,18 @@ func main() {
 	/**
 	*** multiple declarations
 	 */
-
+	fmt.Println("")
 	x, y := 202, 10
 	fmt.Print(sum(x, y), day)
+
+	/**
+	*** Print UT8 byte code for characters b r y a n
+	 */
+	fmt.Println("")
+	fmt.Println("Access UTF-8 code of characters of name")
+	ut8 := []byte(name)
+	fmt.Println(ut8)
+
 
 }
 
