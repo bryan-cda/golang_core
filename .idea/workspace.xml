@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="179250d4-5890-441e-9ee0-a290a4c48f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/poc/go/system_data_viewer/SystemData.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poc/go/variables/numbers/Numbers.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poc/go/variables/Bool.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/poc/go/variables/boolean/Bool.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poc/go/variables/Vars.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/poc/go/variables/types/Vars.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
